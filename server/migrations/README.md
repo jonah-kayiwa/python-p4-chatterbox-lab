@@ -1,0 +1,1 @@
+it is a single database configuration for Flask.
